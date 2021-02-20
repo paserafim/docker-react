@@ -12,11 +12,7 @@ function App() {
            target="_blank"
            rel="noopener noreferrer"
         >
-<<<<<<< HEAD
-          Learn travis ci with Paulo Serafim.ss
-=======
-          Learn React with Paulo Serafim on feature branch!
->>>>>>> 5906121e7513048d21d46faa85c183804a82c485
+          Learn travis ci with Paulo Serafim
         </a>
       </header>
     </div>
