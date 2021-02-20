@@ -1,0 +1,9 @@
+sudo: required
+servidor:
+  - docker
+
+before_install:
+  - docker build -t paserafim/docker-react -f Dockerfile.dev .
+
+script:
+  - docker run -e CI=true paserafim/docker-react npm run test
