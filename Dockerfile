@@ -8,6 +8,7 @@ RUN npm run build
 
 # Step 2 (Multistep process - get result from step 1)
 FROM nginx 
+EXPOSE 80
 COPY --from=builder /app/build /usr/share/nginx/html
 
 
