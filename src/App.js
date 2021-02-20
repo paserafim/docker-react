@@ -12,7 +12,7 @@ function App() {
            target="_blank"
            rel="noopener noreferrer"
         >
-          Learn React with Paulo Serafim on feature branch!
+          Learn React with Paulo Serafim final
         </a>
       </header>
     </div>
