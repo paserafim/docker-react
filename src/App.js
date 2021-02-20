@@ -12,7 +12,7 @@ function App() {
            target="_blank"
            rel="noopener noreferrer"
         >
-          Learn travis ci with Paulo Serafim
+          Learn react travis ci with Paulo Serafim
         </a>
       </header>
     </div>
